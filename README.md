@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Le2Go
+- 👀 I’m interested in coding and reading
+- 🌱 I’m currently learning JS
+- ⚡ Fun fact: I want to code, but my vision is very bad.
